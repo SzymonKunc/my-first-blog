@@ -25,7 +25,7 @@ SECRET_KEY = 'y1lx5is81wz9dn-c(csqv14by5i2x!e6$6fu1#zv#ak9(g%h#v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Cyberbeta.pythonanywhere.com']
 
 
 # Application definition
